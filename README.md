@@ -16,3 +16,11 @@ Output:
 2 'IO - setImmediate'
 1 'IO - setTimeout 0'
 ```
+
+# [setImmediate vs setTimeout](./setImmediate_vs_setTimeout.js)
+
+Output:
+```
+2 'setTimeout 0'
+3 'setImmediate'
+```
